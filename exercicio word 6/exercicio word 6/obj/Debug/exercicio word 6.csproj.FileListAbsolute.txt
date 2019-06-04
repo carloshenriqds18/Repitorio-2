@@ -1,0 +1,21 @@
+I:\etec\programação e algoritmos\word 03-04\exercicio word 6\exercicio word 6\bin\Debug\ConsoleApplication1.exe.config
+I:\etec\programação e algoritmos\word 03-04\exercicio word 6\exercicio word 6\obj\Debug\ConsoleApplication1.exe
+I:\etec\programação e algoritmos\word 03-04\exercicio word 6\exercicio word 6\obj\Debug\ConsoleApplication1.pdb
+I:\etec\programação e algoritmos\word 03-04\exercicio word 6\exercicio word 6\bin\Debug\ConsoleApplication1.exe
+I:\etec\programação e algoritmos\word 03-04\exercicio word 6\exercicio word 6\bin\Debug\ConsoleApplication1.pdb
+I:\etec\programação e algoritmos\word 03-04\exercicio word 6\exercicio word 6\obj\Debug\exercicio word 6.csprojResolveAssemblyReference.cache
+D:\etec\programação e algoritmos\word 03-04\exercicio word 6\exercicio word 6\bin\Debug\ConsoleApplication1.exe.config
+D:\etec\programação e algoritmos\word 03-04\exercicio word 6\exercicio word 6\obj\Debug\ConsoleApplication1.exe
+D:\etec\programação e algoritmos\word 03-04\exercicio word 6\exercicio word 6\obj\Debug\ConsoleApplication1.pdb
+D:\etec\programação e algoritmos\word 03-04\exercicio word 6\exercicio word 6\bin\Debug\ConsoleApplication1.exe
+D:\etec\programação e algoritmos\word 03-04\exercicio word 6\exercicio word 6\bin\Debug\ConsoleApplication1.pdb
+D:\etec\programação e algoritmos\word 03-04\exercicio word 6\exercicio word 6\obj\Debug\exercicio word 6.csprojResolveAssemblyReference.cache
+C:\Users\EtecAB\Desktop\exercicio word 6\exercicio word 6\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\EtecAB\Desktop\exercicio word 6\exercicio word 6\obj\Debug\ConsoleApplication1.exe
+C:\Users\EtecAB\Desktop\exercicio word 6\exercicio word 6\obj\Debug\ConsoleApplication1.pdb
+C:\Users\EtecAB\Desktop\exercicio word 6\exercicio word 6\bin\Debug\ConsoleApplication1.exe
+C:\Users\EtecAB\Desktop\exercicio word 6\exercicio word 6\bin\Debug\ConsoleApplication1.pdb
+C:\Users\EtecAB\Desktop\exercicio word 6\exercicio word 6\obj\Debug\exercicio word 6.csprojResolveAssemblyReference.cache
+C:\Users\EtecAB\Desktop\Exercicios 03_04\exercicio word 6\exercicio word 6\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\EtecAB\Desktop\Exercicios 03_04\exercicio word 6\exercicio word 6\obj\Debug\ConsoleApplication1.exe
+C:\Users\EtecAB\Desktop\Exercicios 03_04\exercicio word 6\exercicio word 6\obj\Debug\ConsoleApplication1.pdb
